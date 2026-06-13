@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
-  "notes": "First release"
+  "notes": "Bulk export to Claude, multi-page selection, calendar day-of-week recurrence, hotkey fixes"
 }
