@@ -1,5 +1,5 @@
 {
   "version": "1.0.1",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
-  "notes": "Fixed paste (A/S shortcuts and bulk export), fixed app icon, added F-key navigation, faster message loading"
+  "notes": "Muted inbox state now persists across restarts"
 }
