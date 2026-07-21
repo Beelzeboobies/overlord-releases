@@ -1,7 +1,7 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
   "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-1.0.2.exe",
-  "notes": "Real Developer ID signing, notarization, native Tickets attachment support, bundled context.md fix"
+  "notes": "Fix: login page pointed at production, which never had the route — now correctly uses dev"
 }
