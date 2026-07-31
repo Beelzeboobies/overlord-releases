@@ -2,6 +2,6 @@
   "version": "1.2.11",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
-  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-1.0.2.exe",
+  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-1.2.11.exe",
   "notes": "Freecords rate-limit fix, Untagged tickets tile + auto-tag tool, scroll-position preserved across Mail/Tickets/Moderation tabs, Cmd+F song search in Moderation, bulk album takedown, moderation action feedback, force-refresh on folder switch (fixes stale Sent folder), Windows auto-update pipeline"
 }
