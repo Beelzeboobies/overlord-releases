@@ -4,5 +4,6 @@
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
   "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-1.2.11.exe",
-  "notes": "Mac 2.31: merged-ticket link loading feedback + sidebar resync, Support email search fix, hover-preview fix, song metadata/Spotify fixes. Windows unchanged at 1.2.11."
+  "notes": "Mac 2.31: merged-ticket link loading feedback + sidebar resync, Support email search fix, hover-preview fix, song metadata/Spotify fixes. Windows unchanged at 1.2.11.",
+  "version": "2.31"
 }
