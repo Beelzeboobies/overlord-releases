@@ -1,9 +1,9 @@
 {
-  "mac_version": "2.32",
+  "mac_version": "2.33",
   "windows_version": "3.0",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
   "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-1.2.11.exe",
-  "notes": "Fixed Claude-assist sign-off using the wrong user's name; stale group-panel loading crash, unreliable Freshdesk search totals, background sync rate-limit gating, Windows migration script crashes; version-check fixes for both platforms.",
-  "version": "2.32"
+  "notes": "Talent Balance is now directly editable, import your Freshdesk canned responses into Overlord, canned responses get a full-size rich-text editor and a collapsible list, Claude replies now greet requesters by name, and Settings has a new Patch Notes list.",
+  "version": "2.33"
 }
