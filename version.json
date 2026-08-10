@@ -1,9 +1,9 @@
 {
-  "mac_version": "2.31",
+  "mac_version": "2.32",
   "windows_version": "3.0",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
   "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-1.2.11.exe",
-  "notes": "Mac 2.31 unchanged. Windows renumbered 1.2.11 → 3.0 (label only, same installer/content) to force-unblock installs whose local version got corrupted to a Mac-style number (2.3) and could never see themselves as behind a real 1.2.x release again.",
-  "version": "2.31"
+  "notes": "Fixed Claude-assist sign-off using the wrong user's name; stale group-panel loading crash, unreliable Freshdesk search totals, background sync rate-limit gating, Windows migration script crashes; version-check fixes for both platforms.",
+  "version": "2.32"
 }
