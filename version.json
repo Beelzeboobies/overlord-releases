@@ -1,9 +1,9 @@
 {
   "mac_version": "2.31",
-  "windows_version": "1.2.11",
+  "windows_version": "3.0",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
   "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-1.2.11.exe",
-  "notes": "Mac 2.31: merged-ticket link loading feedback + sidebar resync, Support email search fix, hover-preview fix, song metadata/Spotify fixes. Windows unchanged at 1.2.11.",
+  "notes": "Mac 2.31 unchanged. Windows renumbered 1.2.11 → 3.0 (label only, same installer/content) to force-unblock installs whose local version got corrupted to a Mac-style number (2.3) and could never see themselves as behind a real 1.2.x release again.",
   "version": "2.31"
 }
