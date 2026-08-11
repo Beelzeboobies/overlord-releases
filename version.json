@@ -1,9 +1,9 @@
 {
-  "mac_version": "2.36",
+  "mac_version": "2.37",
   "windows_version": "3.0",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
   "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-1.2.11.exe",
-  "notes": "Mail now drafts replies automatically and can redirect to a different recipient than the sender. Dig Deep added to Mail, Support, and Tickets — look up any artist by email/ISRC/UPC and fold their account status into the draft. Fixed Claude sometimes returning a blank draft, and fixed stray ** formatting symbols in drafts.",
-  "version": "2.36"
+  "notes": "Mail no longer drafts a reply automatically. Fixed a stale-draft bug after typing a redirect instruction. JSON export of emails/tickets now includes full content. Fixed some reply windows rendering their signature and Send button outside the window. Fixed email search in Support showing a raw error instead of \"no results\".",
+  "version": "2.37"
 }
