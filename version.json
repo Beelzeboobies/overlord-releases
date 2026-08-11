@@ -1,9 +1,9 @@
 {
-  "mac_version": "2.35",
+  "mac_version": "2.36",
   "windows_version": "3.0",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
   "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-1.2.11.exe",
-  "notes": "Mail now drafts replies automatically. You can redirect a reply to a different recipient than the sender, and use Dig Deep to look up any artist by email/ISRC/UPC and fold their account status into the draft. Fixed Claude sometimes returning a blank draft with no explanation.",
-  "version": "2.35"
+  "notes": "Mail now drafts replies automatically and can redirect to a different recipient than the sender. Dig Deep added to Mail, Support, and Tickets — look up any artist by email/ISRC/UPC and fold their account status into the draft. Fixed Claude sometimes returning a blank draft, and fixed stray ** formatting symbols in drafts.",
+  "version": "2.36"
 }
