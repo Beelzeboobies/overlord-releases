@@ -1,9 +1,9 @@
 {
-  "mac_version": "2.37",
+  "mac_version": "2.38",
   "windows_version": "3.0",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
   "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-1.2.11.exe",
-  "notes": "Mail no longer drafts a reply automatically. Fixed a stale-draft bug after typing a redirect instruction. JSON export of emails/tickets now includes full content. Fixed some reply windows rendering their signature and Send button outside the window. Fixed email search in Support showing a raw error instead of \"no results\".",
-  "version": "2.37"
+  "notes": "Fixed the copyright check (ACR) silently showing no matches for songs that actually had a real match. Fixed an update-installer bug that could leave Overlord unable to open after updating.",
+  "version": "2.38"
 }
