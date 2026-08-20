@@ -1,9 +1,9 @@
 {
   "mac_version": "2.40",
-  "windows_version": "3.0",
+  "windows_version": "3.6",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
-  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-1.2.11.exe",
+  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.6.exe",
   "notes": "Removed the old Ask Claude hand-off; Reply with Claude opens a draft directly. Added Bulk reply, full Tickets/Support parity. Fixed the Ban User dialog, reply-draft duplication, slow ticket loading, the Untagged tile and Support's stuck ticket count, Select All in Mail (moved to match Support, and fixed a Thread-view bug), and added CSV attachment preview.",
   "version": "2.40"
 }
