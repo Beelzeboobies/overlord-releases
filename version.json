@@ -1,9 +1,9 @@
 {
-  "mac_version": "2.39",
+  "mac_version": "2.40",
   "windows_version": "3.0",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
   "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-1.2.11.exe",
-  "notes": "Updating now shows a real progress bar and a Cancel button. Added an Oldest first/Newest first toggle to Support's ticket filters, and fixed Tickets' sort to actually reorder the full ticket list instead of just the current page.",
-  "version": "2.39"
+  "notes": "Removed the old Ask Claude hand-off; Reply with Claude opens a draft directly. Added Bulk reply, full Tickets/Support parity. Fixed the Ban User dialog, reply-draft duplication, slow ticket loading, the Untagged tile and Support's stuck ticket count, Select All in Mail (moved to match Support, and fixed a Thread-view bug), and added CSV attachment preview.",
+  "version": "2.40"
 }
