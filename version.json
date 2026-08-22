@@ -1,11 +1,11 @@
 {
-  "mac_version": "2.41",
+  "mac_version": "2.42",
   "windows_version": "3.6",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
   "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.6.exe",
-  "notes": "Added a real automatic backup of your data every few hours. Moderation: added song status history (who/what changed a status), deletion history, and a Warn User action.",
-  "version": "2.41",
-  "mac_notes": "Added a real automatic backup of your data every few hours. Moderation: added song status history (who/what changed a status), deletion history, and a Warn User action.",
+  "notes": "Support and Tickets: the View user panel now shows song status history, deletion history, and a Warn Artist action, matching Moderation. Ban Artist now requires a reason before it can be submitted.",
+  "version": "2.42",
+  "mac_notes": "Support and Tickets: the View user panel now shows song status history, deletion history, and a Warn Artist action, matching Moderation. Ban Artist now requires a reason before it can be submitted.",
   "windows_notes": "Windows and Mac updates now check completely independently. Added a Bulk reply tool for Support and Tickets, and brought Tickets to full feature parity with Support. Replaced the old Ask Claude hand-off with Reply with Claude drafting inline. Fixed the reply/compose window getting stuck mid-resize, the app restarting in the wrong color theme, and Moderation sometimes opening to a blank screen."
 }
