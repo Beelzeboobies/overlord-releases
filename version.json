@@ -1,11 +1,11 @@
 {
   "mac_version": "2.42",
-  "windows_version": "3.9",
+  "windows_version": "3.11",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
-  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.9.exe",
+  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.11.exe",
   "notes": "Support and Tickets: the View user panel now shows song status history, deletion history, and a Warn Artist action, matching Moderation. Ban Artist now requires a reason before it can be submitted.",
   "version": "2.42",
   "mac_notes": "Support and Tickets: the View user panel now shows song status history, deletion history, and a Warn Artist action, matching Moderation. Ban Artist now requires a reason before it can be submitted.",
-  "windows_notes": "Fixed the Send/Create button sometimes staying greyed out even after writing a complete message."
+  "windows_notes": "Fixed sort order in Support/Tickets, missing Claude Context defaults, the Apple Music Style Guide reference, invisible Composer lists, Streaming Fraud/Spotify Claim actions, a Reply with Claude context mix-up between customers, added song preview-play in Moderation, and widened automatic backups to cover uploaded files."
 }
