@@ -1,11 +1,11 @@
 {
-  "mac_version": "2.42",
+  "mac_version": "2.43",
   "windows_version": "3.13",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
   "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.13.exe",
-  "notes": "Support and Tickets: the View user panel now shows song status history, deletion history, and a Warn Artist action, matching Moderation. Ban Artist now requires a reason before it can be submitted.",
-  "version": "2.42",
-  "mac_notes": "Support and Tickets: the View user panel now shows song status history, deletion history, and a Warn Artist action, matching Moderation. Ban Artist now requires a reason before it can be submitted.",
+  "notes": "Automatic database self-healing, wider backup coverage, Shift+Click range-select in Moderation, several Claude-drafting and compose fixes, Tickets auto-refresh, and the Freshdesk-to-Tickets migration is now complete with accurate ticket counts.",
+  "version": "2.43",
+  "mac_notes": "Automatic database self-healing, wider backup coverage, Shift+Click range-select in Moderation, several Claude-drafting and compose fixes, Tickets auto-refresh, and the Freshdesk-to-Tickets migration is now complete with accurate ticket counts.",
   "windows_notes": "Fixed the Support/Tickets ticket-sync gap that had been silently building up for weeks (Freshdesk background sync had gotten switched off) - Tickets is now fully caught up and Freshdesk has been retired. Fixed a bug that could create empty support tickets from HTML-only emails, added auto-refresh to the Tickets list, fixed the mail and Tickets unread/status badges getting stuck stale when the app sat unfocused for a while, and fixed a dark rectangle showing on the Calendar in light mode."
 }
