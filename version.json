@@ -1,11 +1,11 @@
 {
-  "mac_version": "2.44",
-  "windows_version": "3.14",
+  "mac_version": "2.42",
+  "windows_version": "3.15",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
-  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.14.exe",
-  "notes": "Tickets now has a single blue dot for tickets awaiting your reply, a Sent view for tickets you created yourself, and a quick summary of a customer's other tickets right in the header. Also fixed two bugs where a ticket created directly (not from Support) wrongly showed Freshdesk-related errors.",
-  "version": "2.44",
-  "mac_notes": "Tickets now has a single blue dot for tickets awaiting your reply, a Sent view for tickets you created yourself, and a quick summary of a customer's other tickets right in the header. Also fixed two bugs where a ticket created directly (not from Support) wrongly showed Freshdesk-related errors.",
-  "windows_notes": "Pulled in Tickets' new blue awaiting-reply dot, Sent view, and requester panel (customer's other open/past tickets, jump-to-list), plus a fix for attachments failing to load on native-only tickets and a stray Open-in-Freshdesk link. Also includes everything from 3.13: the Support/Tickets sync-gap fix, empty-ticket parsing fix, Tickets auto-refresh, stale-badge fix, and the Calendar dark-rectangle fix."
+  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.15.exe",
+  "notes": "Support and Tickets: the View user panel now shows song status history, deletion history, and a Warn Artist action, matching Moderation. Ban Artist now requires a reason before it can be submitted.",
+  "version": "2.42",
+  "mac_notes": "Support and Tickets: the View user panel now shows song status history, deletion history, and a Warn Artist action, matching Moderation. Ban Artist now requires a reason before it can be submitted.",
+  "windows_notes": "Fixed Tickets showing 'Closed' twice in the status dropdown, a bug that could occasionally create duplicate tickets from the same email, a bug where a customer's reply to an existing ticket could silently fail to attach, and a bug that could leave the app briefly unresponsive under heavy background activity. Tickets now loads several times faster, especially on Closed and other large views. Moderation now shows an artist's linked Spotify account and flags conflicting accounts."
 }
