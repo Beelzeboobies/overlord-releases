@@ -1,11 +1,11 @@
 {
-  "mac_version": "2.44",
+  "mac_version": "2.45",
   "windows_version": "3.20",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
   "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.20.exe",
-  "notes": "Tickets now has a single blue dot for tickets awaiting your reply, a Sent view for tickets you created yourself, and a quick summary of a customer's other tickets right in the header. Also fixed two bugs where a ticket created directly (not from Support) wrongly showed Freshdesk-related errors.",
-  "version": "2.44",
-  "mac_notes": "Tickets now has a single blue dot for tickets awaiting your reply, a Sent view for tickets you created yourself, and a quick summary of a customer's other tickets right in the header. Also fixed two bugs where a ticket created directly (not from Support) wrongly showed Freshdesk-related errors.",
+  "notes": "Tickets can now have file attachments, both when creating and replying. Nuemeta Actions moved to a per-track button, plus a real Spotify Profile editor in Moderation. Fixed drafts piling up as separate copies, a support-email list-formatting bug, and \"Past cases\" always showing 0. Hardened the local database against corruption from a force-quit. Added a \"Create tickets from new mail\" setting, off by default, to prevent duplicate tickets when more than one installation is open at once.",
+  "version": "2.45",
+  "mac_notes": "Tickets can now have file attachments, both when creating and replying. Nuemeta Actions moved to a per-track button, plus a real Spotify Profile editor in Moderation. Fixed drafts piling up as separate copies, a support-email list-formatting bug, and \"Past cases\" always showing 0. Hardened the local database against corruption from a force-quit. Added a \"Create tickets from new mail\" setting, off by default, to prevent duplicate tickets when more than one installation is open at once.",
   "windows_notes": "Tickets can now have file attachments, both when creating a new ticket and when replying to one - this also fixes Create Ticket only recording a ticket internally without actually emailing the person it was addressed to. Fixed the Nuemeta menu on a track in Moderation getting cut off at the bottom of the list instead of showing all its options. Fixed a customer's past ticket history always showing as empty in Tickets' user panel, even when they had real closed tickets on file."
 }
