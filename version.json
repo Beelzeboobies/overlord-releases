@@ -1,11 +1,11 @@
 {
   "mac_version": "2.44",
-  "windows_version": "3.19",
+  "windows_version": "3.20",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
-  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.19.exe",
+  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.20.exe",
   "notes": "Tickets now has a single blue dot for tickets awaiting your reply, a Sent view for tickets you created yourself, and a quick summary of a customer's other tickets right in the header. Also fixed two bugs where a ticket created directly (not from Support) wrongly showed Freshdesk-related errors.",
   "version": "2.44",
   "mac_notes": "Tickets now has a single blue dot for tickets awaiting your reply, a Sent view for tickets you created yourself, and a quick summary of a customer's other tickets right in the header. Also fixed two bugs where a ticket created directly (not from Support) wrongly showed Freshdesk-related errors.",
-  "windows_notes": "Fixed Tickets being repeatedly re-populated with duplicate and garbage tickets — this was caused by more than one installation of Overlord processing new support email at the same time; a new setting (Settings → Support → \"Create tickets from new mail\") now makes sure only one designated installation does this. Also fixed drafts piling up as separate copies instead of updating in place while composing, added Re-deliver All / Full Update / Metadata Update actions to Moderation's distribution status panel alongside the existing Takedown, added a real editor for an artist's linked Spotify profile in Moderation showing their actual name and follower count, and fixed numbered/bulleted steps in a support email running together as one line instead of showing separately."
+  "windows_notes": "Tickets can now have file attachments, both when creating a new ticket and when replying to one - this also fixes Create Ticket only recording a ticket internally without actually emailing the person it was addressed to. Fixed the Nuemeta menu on a track in Moderation getting cut off at the bottom of the list instead of showing all its options. Fixed a customer's past ticket history always showing as empty in Tickets' user panel, even when they had real closed tickets on file."
 }
