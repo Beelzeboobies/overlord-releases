@@ -1,11 +1,11 @@
 {
-  "mac_version": "2.49",
+  "mac_version": "2.50",
   "windows_version": "3.26",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
   "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.26.exe",
-  "notes": "Fixed new support tickets sometimes coming in with no message at all — the original email is now always captured correctly.",
-  "version": "2.49",
-  "mac_notes": "Fixed new support tickets sometimes coming in with no message at all — the original email is now always captured correctly.",
+  "notes": "Fixed World Clock sometimes losing saved clocks after a restart. Tickets now show who on the team sent each reply internally. Fixed tickets occasionally not showing up yet in search/lookups right after being created or imported. Added Ticket Rules (Settings → Ticket Rules) to automatically tag, prioritize, set status, or assign a ticket the moment it's created.",
+  "version": "2.50",
+  "mac_notes": "Fixed World Clock sometimes losing saved clocks after a restart. Tickets now show who on the team sent each reply internally. Fixed tickets occasionally not showing up yet in search/lookups right after being created or imported. Added Ticket Rules (Settings → Ticket Rules) to automatically tag, prioritize, set status, or assign a ticket the moment it's created.",
   "windows_notes": "Fixed World Clock sometimes losing saved clocks after a restart. Tickets now show who on the team sent each reply internally. Fixed tickets occasionally not showing up yet in search/lookups right after being created or imported. Added Ticket Rules (Settings -> Ticket Rules) to automatically tag, prioritize, set status, or assign a ticket the moment it's created."
 }
