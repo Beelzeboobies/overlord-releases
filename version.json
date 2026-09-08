@@ -1,11 +1,11 @@
 {
   "mac_version": "2.46",
-  "windows_version": "3.21",
+  "windows_version": "3.22",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
-  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.21.exe",
+  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.22.exe",
   "notes": "Fixed bulleted/numbered lists losing their formatting in Preview, and added search to the canned responses picker. Fixed Claude's drafted replies greeting the customer by their raw email address instead of their real name. Fixed several bugs in Tickets' Open/Past cases panel: a ticket's own entry always showing \"(no subject)\", the list losing track of a customer's other tickets after navigating between them, and clicking a ticket's own entry in its own list wiping out the whole view.",
   "version": "2.46",
   "mac_notes": "Fixed bulleted/numbered lists losing their formatting in Preview, and added search to the canned responses picker. Fixed Claude's drafted replies greeting the customer by their raw email address instead of their real name. Fixed several bugs in Tickets' Open/Past cases panel: a ticket's own entry always showing \"(no subject)\", the list losing track of a customer's other tickets after navigating between them, and clicking a ticket's own entry in its own list wiping out the whole view.",
-  "windows_notes": "Fixed bulleted and numbered lists showing correctly while drafting a reply but losing their bullets/numbers in Preview. Added search to the canned responses picker - type to filter by name or content instead of scrolling the full list. Fixed Claude's drafted replies greeting the customer by their raw email address instead of their actual artist name."
+  "windows_notes": "Fixed the \"Create tickets from new mail\" setting occasionally resetting itself off without warning, silently skipping ticket creation for mail that arrived while it was off. Fixed an email showing as completely blank when a filing rule had moved it to another folder — it now shows the real message instead of nothing. Fixed a ticket showing no messages with no explanation when it failed to load — it now shows what went wrong, with a Retry button. Fixed a ticket that never received its original message showing completely blank. Fixed a customer's currently-open ticket always showing \"(no subject)\" in its own Open/Past cases list. Fixed the Open/Past cases list losing track of a customer's other tickets after clicking between them. Fixed clicking a ticket's own entry in its own Open/Past cases list wiping out the whole ticket view."
 }
