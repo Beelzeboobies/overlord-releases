@@ -1,11 +1,11 @@
 {
-  "mac_version": "2.48",
+  "mac_version": "2.49",
   "windows_version": "3.25",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
   "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.25.exe",
-  "notes": "Fixed closing multiple tickets from the user panel silently doing nothing. Fixed a forwarded or quoted message showing as one unbroken wall of text instead of its real paragraph breaks. Fixed the \"open song\" quicklink sometimes jumping to a different artist's same-titled song instead of the one you clicked.",
-  "version": "2.48",
-  "mac_notes": "Fixed closing multiple tickets from the user panel silently doing nothing. Fixed a forwarded or quoted message showing as one unbroken wall of text instead of its real paragraph breaks. Fixed the \"open song\" quicklink sometimes jumping to a different artist's same-titled song instead of the one you clicked.",
+  "notes": "Fixed new support tickets sometimes coming in with no message at all — the original email is now always captured correctly.",
+  "version": "2.49",
+  "mac_notes": "Fixed new support tickets sometimes coming in with no message at all — the original email is now always captured correctly.",
   "windows_notes": "Fixed new support tickets sometimes coming in with no message at all -- the original email is now always captured correctly."
 }
