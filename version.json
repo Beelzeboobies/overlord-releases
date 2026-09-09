@@ -1,11 +1,11 @@
 {
   "mac_version": "2.53",
-  "windows_version": "3.32",
+  "windows_version": "3.33",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
-  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.32.exe",
+  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.33.exe",
   "notes": "Fixed replies failing to send with a bare HTTP 413 error. Pasting an image into a reply now shrinks it first instead of embedding it at full size, which was silently blocking the entire send once the image was large enough.",
   "version": "2.53",
   "mac_notes": "Fixed replies failing to send with a bare HTTP 413 error. Pasting an image into a reply now shrinks it first instead of embedding it at full size, which was silently blocking the entire send once the image was large enough.",
-  "windows_notes": "Fixed replies failing to send with a bare HTTP 413 error. Pasting an image into a reply now shrinks it first instead of embedding it at full size, which was silently blocking the entire send once the image was large enough."
+  "windows_notes": "Replying to an auto-generated takedown ticket now actually reaches the artist, instead of going to a system address nobody reads."
 }
