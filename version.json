@@ -1,11 +1,11 @@
 {
   "mac_version": "2.51",
-  "windows_version": "3.29",
+  "windows_version": "3.30",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
-  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.29.exe",
+  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.30.exe",
   "notes": "Fixed numbered/bulleted lists showing as plain text in Tickets. Fixed a deleted/merged ticket showing as empty instead of a clear error. Fixed bulk-close not updating Open/Past cases. Fixed some attachments not showing up, and garbled special-character filenames. Fixed Ctrl/Cmd+K in canned responses. Added Ticket History. Fixed the Closed view's date filter to mean closed-in-window, not created-in-window. Sped up several slow-loading Tickets views.",
   "version": "2.51",
   "mac_notes": "Fixed numbered/bulleted lists showing as plain text in Tickets. Fixed a deleted/merged ticket showing as empty instead of a clear error. Fixed bulk-close not updating Open/Past cases. Fixed some attachments not showing up, and garbled special-character filenames. Fixed Ctrl/Cmd+K in canned responses. Added Ticket History. Fixed the Closed view's date filter to mean closed-in-window, not created-in-window. Sped up several slow-loading Tickets views.",
-  "windows_notes": "Backfilled 49 tickets left blank by the duplicate/blank ticket bug, recovering their real content. Fixed the automatic repair from the last update, which was silently failing every time due to a Freecords API limitation — blank tickets are now fixed locally and instantly instead of depending on it."
+  "windows_notes": "Moderation: replaced the misleading Denied banner (which could show even on an Approved song) with a real, foldable moderation history showing the current status at the top, with date/time and who made each change."
 }
