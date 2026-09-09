@@ -1,11 +1,11 @@
 {
   "mac_version": "2.55",
-  "windows_version": "3.34",
+  "windows_version": "3.35",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
-  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.34.exe",
+  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.35.exe",
   "notes": "Moderation: fixed ISRC and status showing blank or \"Unknown\" for a song opened via the Artists tab's quicklink.",
   "version": "2.55",
   "mac_notes": "Moderation: fixed ISRC and status showing blank or \"Unknown\" for a song opened via the Artists tab's quicklink.",
-  "windows_notes": "Moderation: fixed ISRC and status showing blank or \"Unknown\" for a song opened via the Artists tab's quicklink."
+  "windows_notes": "Ctrl+R now actually refreshes the current tab — Mail, Support, Tickets, Moderation, Calendar, Contacts, and World Clock all have a working, unchangeable Ctrl+R shortcut and a visible Refresh button."
 }
