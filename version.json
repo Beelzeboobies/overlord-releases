@@ -1,11 +1,11 @@
 {
-  "mac_version": "2.52",
+  "mac_version": "2.53",
   "windows_version": "3.32",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
   "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.32.exe",
-  "notes": "Fixed the real cause of tickets recurring as duplicates and blanks after a crash or restart, and a real app crash (blank white screen) in Tickets. Fixed the app occasionally launching in the wrong theme after a restart. Backfilled 49 tickets left blank by the incident, and fixed the automatic repair that was silently failing. Moderation: replaced the misleading \"Denied\" banner with a real, foldable moderation history in both Individual Search and the Artists tab's song list.",
-  "version": "2.52",
-  "mac_notes": "Fixed the real cause of tickets recurring as duplicates and blanks after a crash or restart, and a real app crash (blank white screen) in Tickets. Fixed the app occasionally launching in the wrong theme after a restart. Backfilled 49 tickets left blank by the incident, and fixed the automatic repair that was silently failing. Moderation: replaced the misleading \"Denied\" banner with a real, foldable moderation history in both Individual Search and the Artists tab's song list.",
+  "notes": "Fixed replies failing to send with a bare HTTP 413 error. Pasting an image into a reply now shrinks it first instead of embedding it at full size, which was silently blocking the entire send once the image was large enough.",
+  "version": "2.53",
+  "mac_notes": "Fixed replies failing to send with a bare HTTP 413 error. Pasting an image into a reply now shrinks it first instead of embedding it at full size, which was silently blocking the entire send once the image was large enough.",
   "windows_notes": "Fixed replies failing to send with a bare HTTP 413 error. Pasting an image into a reply now shrinks it first instead of embedding it at full size, which was silently blocking the entire send once the image was large enough."
 }
