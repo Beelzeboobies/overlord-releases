@@ -1,11 +1,11 @@
 {
-  "mac_version": "2.57",
+  "mac_version": "2.58",
   "windows_version": "3.38",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
   "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.38.exe",
-  "notes": "Fixed Reply with Claude failing with \"API key is not scoped to a workspace.\" Added an optional Workspace ID field in Settings → Claude for accounts that need it.",
-  "version": "2.57",
-  "mac_notes": "Fixed Reply with Claude failing with \"API key is not scoped to a workspace.\" Added an optional Workspace ID field in Settings → Claude for accounts that need it.",
+  "notes": "Tickets now supports multiple tabs. Every reply starts with a guaranteed greeting. Added automatic 30-day ticket expiry (Settings → Support, off by default) with an apologetic email. Moderation actions are now also logged locally so history can never come up empty for anything done through Overlord.",
+  "version": "2.58",
+  "mac_notes": "Tickets now supports multiple tabs. Every reply starts with a guaranteed greeting. Added automatic 30-day ticket expiry (Settings → Support, off by default) with an apologetic email. Moderation actions are now also logged locally so history can never come up empty for anything done through Overlord.",
   "windows_notes": "Tickets now supports multiple tabs. Every reply starts with a guaranteed greeting. Added automatic 30-day ticket expiry with an apologetic email. Moderation actions are now also logged locally so history can never come up empty for anything done through Overlord."
 }
