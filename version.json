@@ -1,11 +1,11 @@
 {
-  "mac_version": "2.58",
+  "mac_version": "2.59",
   "windows_version": "3.39",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
   "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.39.exe",
-  "notes": "Tickets now supports multiple tabs. Every reply starts with a guaranteed greeting. Added automatic 30-day ticket expiry (Settings \u00e2\u2020\u2019 Support, off by default) with an apologetic email. Moderation actions are now also logged locally so history can never come up empty for anything done through Overlord.",
-  "version": "2.58",
-  "mac_notes": "Tickets now supports multiple tabs. Every reply starts with a guaranteed greeting. Added automatic 30-day ticket expiry (Settings \u00e2\u2020\u2019 Support, off by default) with an apologetic email. Moderation actions are now also logged locally so history can never come up empty for anything done through Overlord.",
-  "windows_notes": "Fixed a real crash that could blank the entire app to a black screen on startup. \"Resolved\" tickets are now treated as fully identical to \"Closed\" everywhere the count, the list, and the date-filtered Closed view, not just the on-screen label. The 30-day ticket expiry automation now has a real Settings, Support toggle and is off by default everywhere."
+  "notes": "Fixed a real crash that could blank the entire app to a black screen on startup. \"Resolved\" tickets are now treated as fully identical to \"Closed\" everywhere — the count, the list, and the date-filtered Closed view — not just the on-screen label.",
+  "version": "2.59",
+  "mac_notes": "Fixed a real crash that could blank the entire app to a black screen on startup. \"Resolved\" tickets are now treated as fully identical to \"Closed\" everywhere — the count, the list, and the date-filtered Closed view — not just the on-screen label.",
+  "windows_notes": "Fixed a real crash that could blank the entire app to a black screen on startup. \"Resolved\" tickets are now treated as fully identical to \"Closed\" everywhere — the count, the list, and the date-filtered Closed view — not just the on-screen label. The 30-day ticket expiry automation now has a real Settings → Support toggle and is off by default everywhere."
 }
