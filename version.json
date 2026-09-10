@@ -1,11 +1,11 @@
 {
-  "mac_version": "2.55",
+  "mac_version": "2.56",
   "windows_version": "3.36",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
   "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.36.exe",
-  "notes": "Moderation: fixed ISRC and status showing blank or \"Unknown\" for a song opened via the Artists tab's quicklink.",
-  "version": "2.55",
-  "mac_notes": "Moderation: fixed ISRC and status showing blank or \"Unknown\" for a song opened via the Artists tab's quicklink.",
+  "notes": "Fixed hover tooltips not appearing anywhere except a handful of buttons — most of the app's tooltips were never actually rendering. They now show up consistently across Mail, Support, Tickets, Moderation, Compose, Settings, and attachment/download buttons everywhere.",
+  "version": "2.56",
+  "mac_notes": "Fixed hover tooltips not appearing anywhere except a handful of buttons — most of the app's tooltips were never actually rendering. They now show up consistently across Mail, Support, Tickets, Moderation, Compose, Settings, and attachment/download buttons everywhere.",
   "windows_notes": "Ctrl+R in Moderation now actually refreshes the artist profile or song you're looking at on Artists and Songs, not just the small stats counter. Refresh button tooltips now actually appear on hover across Tickets, Support, Moderation, Calendar, Contacts, and World Clock."
 }
