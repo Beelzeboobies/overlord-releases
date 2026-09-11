@@ -1,11 +1,11 @@
 {
   "mac_version": "2.59",
-  "windows_version": "3.40",
+  "windows_version": "3.41",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
-  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.40.exe",
+  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.41.exe",
   "notes": "Fixed a real crash that could blank the entire app to a black screen on startup. \"Resolved\" tickets are now treated as fully identical to \"Closed\" everywhere \u00e2\u20ac\u201d the count, the list, and the date-filtered Closed view \u00e2\u20ac\u201d not just the on-screen label.",
   "version": "2.59",
   "mac_notes": "Fixed a real crash that could blank the entire app to a black screen on startup. \"Resolved\" tickets are now treated as fully identical to \"Closed\" everywhere \u00e2\u20ac\u201d the count, the list, and the date-filtered Closed view \u00e2\u20ac\u201d not just the on-screen label.",
-  "windows_notes": "Merged 157 duplicate open support tickets created by a mail automation bug. Added an hourly duplicate-ticket cleanup, off by default. Added a download button next to Play and Stores on every track in Moderation, Artists, and raised the file-download size limit from 10MB to 100MB."
+  "windows_notes": "Hovering a ticket's \"Xd ago\" timestamp in the header now shows the real date and time, matching the reply timestamps below it."
 }
