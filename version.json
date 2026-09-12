@@ -1,11 +1,11 @@
 {
-  "mac_version": "2.59",
+  "mac_version": "2.60",
   "windows_version": "3.41",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
   "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.41.exe",
-  "notes": "Fixed a real crash that could blank the entire app to a black screen on startup. \"Resolved\" tickets are now treated as fully identical to \"Closed\" everywhere \u00e2\u20ac\u201d the count, the list, and the date-filtered Closed view \u00e2\u20ac\u201d not just the on-screen label.",
-  "version": "2.59",
-  "mac_notes": "Fixed a real crash that could blank the entire app to a black screen on startup. \"Resolved\" tickets are now treated as fully identical to \"Closed\" everywhere \u00e2\u20ac\u201d the count, the list, and the date-filtered Closed view \u00e2\u20ac\u201d not just the on-screen label.",
+  "notes": "Added a download button for tracks in Moderation → Artists, ticket header timestamps now show the real date on hover, and duplicate tickets can now be cleaned up automatically (off by default).",
+  "version": "2.60",
+  "mac_notes": "Added a download button for tracks in Moderation → Artists, ticket header timestamps now show the real date on hover, and duplicate tickets can now be cleaned up automatically (off by default).",
   "windows_notes": "Hovering a ticket's \"Xd ago\" timestamp in the header now shows the real date and time, matching the reply timestamps below it."
 }
