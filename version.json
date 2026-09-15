@@ -1,11 +1,11 @@
 {
   "mac_version": "2.61",
-  "windows_version": "3.42",
+  "windows_version": "3.43",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
-  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.42.exe",
-  "notes": "Fixed replies to Account Deletion Request tickets silently going nowhere — they now correctly reach the artist's real email instead of vanishing into an internal system address.",
+  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.43.exe",
+  "notes": "Fixed replies to Account Deletion Request tickets silently going nowhere \u2014 they now correctly reach the artist's real email instead of vanishing into an internal system address.",
   "version": "2.61",
-  "mac_notes": "Fixed replies to Account Deletion Request tickets silently going nowhere — they now correctly reach the artist's real email instead of vanishing into an internal system address.",
-  "windows_notes": "Fixed replies to Account Deletion Request tickets silently going nowhere — they now correctly reach the artist's real email instead of vanishing into an internal system address."
+  "mac_notes": "Fixed replies to Account Deletion Request tickets silently going nowhere \u2014 they now correctly reach the artist's real email instead of vanishing into an internal system address.",
+  "windows_notes": "Deletion History now shows which song each entry affected, not just a raw ID. New Ticket now warns upfront if support@freecords.com isn't logged in, instead of only after writing the whole ticket. Reply with Claude no longer drafts automatically \u2014 give it instructions first, or leave it blank for a draft from the thread as before."
 }
