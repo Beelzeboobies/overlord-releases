@@ -1,11 +1,11 @@
 {
-  "mac_version": "2.64",
+  "mac_version": "2.65",
   "windows_version": "3.48",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
   "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.48.exe",
-  "notes": "Fixed Ban User silently failing on some Individual Search results. Reply with Claude in Mail no longer drafts automatically the moment you open Reply \u2014 tell it how to respond first, or leave it blank and press Generate, same as Support/Tickets.",
-  "version": "2.64",
-  "mac_notes": "Fixed Ban User silently failing on some Individual Search results. Reply with Claude in Mail no longer drafts automatically the moment you open Reply \u2014 tell it how to respond first, or leave it blank and press Generate, same as Support/Tickets.",
-  "windows_notes": "Deletion History now shows which song each entry affected, not just a raw ID. New Ticket now warns upfront if support@freecords.com isn't logged in, instead of only after writing the whole ticket. Reply with Claude no longer drafts automatically \u2014 give it instructions first, or leave it blank for a draft from the thread as before."
+  "notes": "Tickets for auto-generated system requests now show the real artist's email instead of Freecords' internal system address, in both the ticket view and the Reply compose window. Fixed the document upload button appearing to stop working after one file, and added multi-file upload. Moderation now warns when an artist has no Spotify or Apple profile linked, to avoid a release being auto-matched to the wrong artist.",
+  "version": "2.65",
+  "mac_notes": "Tickets for auto-generated system requests now show the real artist's email instead of Freecords' internal system address, in both the ticket view and the Reply compose window. Fixed the document upload button appearing to stop working after one file, and added multi-file upload. Moderation now warns when an artist has no Spotify or Apple profile linked, to avoid a release being auto-matched to the wrong artist.",
+  "windows_notes": "Deletion History now shows which song each entry affected, not just a raw ID. New Ticket now warns upfront if support@freecords.com isn't logged in, instead of only after writing the whole ticket. Reply with Claude no longer drafts automatically — give it instructions first, or leave it blank for a draft from the thread as before."
 }
