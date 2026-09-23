@@ -1,11 +1,11 @@
 {
   "mac_version": "2.66",
-  "windows_version": "3.52",
+  "windows_version": "3.53",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
-  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.52.exe",
+  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.53.exe",
   "notes": "Fixed Reply and Full compose being completely frozen on Tickets. Removed the \"no Spotify or Apple profile linked\" warning from 2.65 — it could misfire on artists already live on Spotify.",
   "version": "2.66",
   "mac_notes": "Fixed Reply and Full compose being completely frozen on Tickets. Removed the \"no Spotify or Apple profile linked\" warning from 2.65 — it could misfire on artists already live on Spotify.",
-  "windows_notes": "Removed \"Create tickets from new mail\" — ticket creation now happens entirely server-side, so this per-computer toggle is no longer needed. Recovered 266 tickets that were showing no message content at all, going back several weeks — the real content has been restored from the mailbox."
+  "windows_notes": "The blank-ticket content recovery now ships with the app itself, so every install gets it on update — it previously only fixed whichever one computer it was run on."
 }
