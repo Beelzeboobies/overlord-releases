@@ -1,11 +1,11 @@
 {
   "mac_version": "2.67",
-  "windows_version": "3.54",
+  "windows_version": "3.55",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
-  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.54.exe",
+  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.55.exe",
   "notes": "Removed the \"Create tickets from new mail\" setting — ticket creation now happens entirely server-side. Recovered 266 tickets that were showing no message content at all. Fixed Reply showing the raw system address instead of the real artist's name, and a blank \"To\" field from the related-tickets list.",
   "version": "2.67",
   "mac_notes": "Removed the \"Create tickets from new mail\" setting — ticket creation now happens entirely server-side. Recovered 266 tickets that were showing no message content at all. Fixed Reply showing the raw system address instead of the real artist's name, and a blank \"To\" field from the related-tickets list.",
-  "windows_notes": "Fixed Reply/Full compose showing a completely blank \"To\" field and a generic greeting for tickets opened from the \"Open cases\"/\"Past cases\" list in the User panel — it now correctly shows the real artist."
+  "windows_notes": "Canned responses and other Settings edits now show up immediately the next time you open Reply — previously they were only picked up after fully restarting the app."
 }
