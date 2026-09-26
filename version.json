@@ -1,11 +1,11 @@
 {
-  "mac_version": "2.68",
+  "mac_version": "2.69",
   "windows_version": "3.56",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
   "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.56.exe",
-  "notes": "Fixed Tickets silently showing \"0 tickets\" when the Freecords connection actually failed. Fixed the sidebar's Connected indicator getting stuck after the connection dropped mid-session. Fixed canned responses not showing up in Reply/New Ticket until a full app restart.",
-  "version": "2.68",
-  "mac_notes": "Fixed Tickets silently showing \"0 tickets\" when the Freecords connection actually failed. Fixed the sidebar's Connected indicator getting stuck after the connection dropped mid-session. Fixed canned responses not showing up in Reply/New Ticket until a full app restart.",
+  "notes": "Removed the Freshdesk-backed Support tab and Freshdesk connection settings — Freshdesk is permanently retired, and Tickets is now the only place ticket support happens. Fixed pressing a Moderation shortcut key (like the Deny reason letters) sometimes popping open a new email Compose window on top of it.",
+  "version": "2.69",
+  "mac_notes": "Removed the Freshdesk-backed Support tab and Freshdesk connection settings — Freshdesk is permanently retired, and Tickets is now the only place ticket support happens. Fixed pressing a Moderation shortcut key (like the Deny reason letters) sometimes popping open a new email Compose window on top of it.",
   "windows_notes": "Removed the Freshdesk-backed Support tab and Freshdesk connection settings — Freshdesk is permanently retired, and Tickets is now the only place ticket support happens. Fixed pressing a Moderation shortcut key (like the Deny reason letters) sometimes popping open a new email Compose window on top of it."
 }
