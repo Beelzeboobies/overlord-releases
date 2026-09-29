@@ -1,11 +1,11 @@
 {
   "mac_version": "2.70",
-  "windows_version": "3.57",
+  "windows_version": "3.58",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
-  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.57.exe",
+  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.58.exe",
   "notes": "Fixed emails sometimes moving to Trash while replying to a different one, if you started typing very quickly after clicking Reply. Added a \"Deny Hotkeys\" settings panel in Moderation. Fixed the User panel sometimes showing the wrong artist's contact info after clicking through tickets quickly.",
   "version": "2.70",
   "mac_notes": "Fixed emails sometimes moving to Trash while replying to a different one, if you started typing very quickly after clicking Reply. Added a \"Deny Hotkeys\" settings panel in Moderation. Fixed the User panel sometimes showing the wrong artist's contact info after clicking through tickets quickly.",
-  "windows_notes": "Added a \"Deny Hotkeys\" settings panel in Moderation, so the Deny dialog's reason shortcuts can be seen and rebound — hovering a reason now shows its key too. Fixed the User panel sometimes showing the wrong artist's contact info after clicking through tickets quickly. Fixed emails sometimes moving to Trash while replying to a different one, if you started typing very quickly after clicking Reply."
+  "windows_notes": "Fixed emails still occasionally moving to Trash while replying to a different one, even after the previous fix for this — a second, harder-to-hit version of the same timing gap. Fixed Moderation's Artists-tab search silently showing \"no results\" instead of an error when the Freecords admin connection had dropped."
 }
