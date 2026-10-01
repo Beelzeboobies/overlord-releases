@@ -1,11 +1,11 @@
 {
   "mac_version": "2.71",
-  "windows_version": "3.60",
+  "windows_version": "3.61",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
-  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.60.exe",
+  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.61.exe",
   "notes": "Fixed emails still occasionally moving to Trash while replying to a different one \u2014 a second, harder-to-hit version of the previous fix. Fixed Moderation's Artists-tab search silently showing \"no results\" on a dropped connection. Admin Notes now shows who last edited the note, and when.",
   "version": "2.71",
   "mac_notes": "Fixed emails still occasionally moving to Trash while replying to a different one \u2014 a second, harder-to-hit version of the previous fix. Fixed Moderation's Artists-tab search silently showing \"no results\" on a dropped connection. Admin Notes now shows who last edited the note, and when.",
-  "windows_notes": "Redesigned the song detail view to be far more compact. Admin Notes are now a real history instead of overwriting the last note, shared between the song page and the artist's profile. Added a one-click Artist Web Search for impersonation checks, auto-loading ACR/Shazam results, and a shortcuts overlay that lights up every hotkey on screen. Fixed Bulk Approval Review, FP playback and genre-saving, and a search box that could overflow its column. The Moderation sidebar can now collapse like Tickets', with a visible warning if the connection drops while collapsed."
+  "windows_notes": "Errors now explain what went wrong and what to do instead of showing a bare code like HTTP 521. Your saved hotkeys now persist through restarts and updates, and Mail's 1-9 folder shortcuts are finally saved. Other Songs shows the artist's whole catalog and marks Freecords-only releases. Fixed the shortcuts overlay (cut-off F-key row, Ctrl+number recording), Approve Silent falling outside its column, and removed sideways scrolling from Moderation."
 }
