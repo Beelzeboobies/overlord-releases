@@ -1,11 +1,11 @@
 {
-  "mac_version": "2.72",
+  "mac_version": "2.73",
   "windows_version": "3.62",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
   "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.62.exe",
-  "notes": "Admin Notes are now a real history, and adding a note no longer risks erasing notes written elsewhere. Moderation song view redesigned and more compact, with Artist Web Search, Account Risk Assessment, and automatic ACR/Shazam results. Errors now explain what went wrong and what to do instead of showing bare codes. Other Songs shows the artist's whole catalog, hotkeys persist through restarts, and the Moderation navigation can be collapsed.",
-  "version": "2.72",
-  "mac_notes": "Admin Notes are now a real history, and adding a note no longer risks erasing notes written elsewhere. Moderation song view redesigned and more compact, with Artist Web Search, Account Risk Assessment, and automatic ACR/Shazam results. Errors now explain what went wrong and what to do instead of showing bare codes. Other Songs shows the artist's whole catalog, hotkeys persist through restarts, and the Moderation navigation can be collapsed.",
+  "notes": "Admin notes are now saved on Freecords itself, so notes written in Overlord show in the web admin and vice versa, and every moderator sees the same history. Older notes saved only on your computer are uploaded once automatically. The shortcuts overlay now works on every tab, and Settings now says Tickets instead of Support.",
+  "version": "2.73",
+  "mac_notes": "Admin notes are now saved on Freecords itself, so notes written in Overlord show in the web admin and vice versa, and every moderator sees the same history. Older notes saved only on your computer are uploaded once automatically. The shortcuts overlay now works on every tab, and Settings now says Tickets instead of Support.",
   "windows_notes": "The shortcuts overlay now works on every tab \u2014 Inbox, Tickets and Moderation \u2014 and you can change any key right on screen. Admin notes are now saved on Freecords itself, so they match between Overlord and the web admin and are shared by every moderator; notes saved only on your computer by older versions upload automatically once. \"Support\" is now called \"Tickets\" in Settings and messages."
 }
