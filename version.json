@@ -1,11 +1,11 @@
 {
-  "mac_version": "2.73",
+  "mac_version": "2.74",
   "windows_version": "3.63",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
   "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.63.exe",
-  "notes": "Admin notes are now saved on Freecords itself, so notes written in Overlord show in the web admin and vice versa, and every moderator sees the same history. Older notes saved only on your computer are uploaded once automatically. The shortcuts overlay now works on every tab, and Settings now says Tickets instead of Support.",
-  "version": "2.73",
-  "mac_notes": "Admin notes are now saved on Freecords itself, so notes written in Overlord show in the web admin and vice versa, and every moderator sees the same history. Older notes saved only on your computer are uploaded once automatically. The shortcuts overlay now works on every tab, and Settings now says Tickets instead of Support.",
+  "notes": "Right-click selected text in an email to copy, translate or search Google. Cmd+click an email address to look it up on Google, or a plain-text web address to open it. The shortcuts button now sits next to the settings cog. Fixed the missing track name on the song page and the cramped Artist Web Search card.",
+  "version": "2.74",
+  "mac_notes": "Right-click selected text in an email to copy, translate or search Google. Cmd+click an email address to look it up on Google, or a plain-text web address to open it. The shortcuts button now sits next to the settings cog. Fixed the missing track name on the song page and the cramped Artist Web Search card.",
   "windows_notes": "You can now right-click selected text in an email to copy it, translate it or search Google, and Ctrl+click an email address to look it up. The shortcuts button now sits next to the settings cog on every tab. Fixed the track name missing from the song page when opened from an artist's profile, and the Artist Web Search card running out of room."
 }
