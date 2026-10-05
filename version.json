@@ -1,11 +1,11 @@
 {
   "mac_version": "2.73",
-  "windows_version": "3.62",
+  "windows_version": "3.63",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
-  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.62.exe",
+  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.63.exe",
   "notes": "Admin notes are now saved on Freecords itself, so notes written in Overlord show in the web admin and vice versa, and every moderator sees the same history. Older notes saved only on your computer are uploaded once automatically. The shortcuts overlay now works on every tab, and Settings now says Tickets instead of Support.",
   "version": "2.73",
   "mac_notes": "Admin notes are now saved on Freecords itself, so notes written in Overlord show in the web admin and vice versa, and every moderator sees the same history. Older notes saved only on your computer are uploaded once automatically. The shortcuts overlay now works on every tab, and Settings now says Tickets instead of Support.",
-  "windows_notes": "The shortcuts overlay now works on every tab \u2014 Inbox, Tickets and Moderation \u2014 and you can change any key right on screen. Admin notes are now saved on Freecords itself, so they match between Overlord and the web admin and are shared by every moderator; notes saved only on your computer by older versions upload automatically once. \"Support\" is now called \"Tickets\" in Settings and messages."
+  "windows_notes": "You can now right-click selected text in an email to copy it, translate it or search Google, and Ctrl+click an email address to look it up. The shortcuts button now sits next to the settings cog on every tab. Fixed the track name missing from the song page when opened from an artist's profile, and the Artist Web Search card running out of room."
 }
