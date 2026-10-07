@@ -1,11 +1,11 @@
 {
-  "mac_version": "2.74",
+  "mac_version": "2.75",
   "windows_version": "3.64",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
   "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.64.exe",
-  "notes": "Right-click selected text in an email to copy, translate or search Google. Cmd+click an email address to look it up on Google, or a plain-text web address to open it. The shortcuts button now sits next to the settings cog. Fixed the missing track name on the song page and the cramped Artist Web Search card.",
-  "version": "2.74",
-  "mac_notes": "Right-click selected text in an email to copy, translate or search Google. Cmd+click an email address to look it up on Google, or a plain-text web address to open it. The shortcuts button now sits next to the settings cog. Fixed the missing track name on the song page and the cramped Artist Web Search card.",
+  "notes": "Deleting the email you're reading now asks for confirmation first, and no other shortcut can fire while it's open. Fixed a \"message isn't in this folder\" error after switching account tabs. Moderation now recovers by itself after you sign in to Freecords again.",
+  "version": "2.75",
+  "mac_notes": "Deleting the email you're reading now asks for confirmation first, and no other shortcut can fire while it's open. Fixed a \"message isn't in this folder\" error after switching account tabs. Moderation now recovers by itself after you sign in to Freecords again.",
   "windows_notes": "Deleting the email you are reading now asks \"Move this email to Trash?\" first, whether you use the delete key or the button, and no other shortcut works while the question is open. Fixed the Inbox sometimes showing a \"This message isn't in this folder anymore\" error after switching account tabs, and Moderation now recovers by itself after you sign in to Freecords again."
 }
