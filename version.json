@@ -1,11 +1,11 @@
 {
   "mac_version": "2.76",
-  "windows_version": "3.66",
+  "windows_version": "3.67",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
-  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.66.exe",
+  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.67.exe",
   "notes": "Fixed \"Select all\" in the Untagged group in Tickets selecting nothing. Auto-tag now covers everything you've selected across every page, applies much faster, and shows live progress.",
   "version": "2.76",
   "mac_notes": "Fixed \"Select all\" in the Untagged group in Tickets selecting nothing. Auto-tag now covers everything you've selected across every page, applies much faster, and shows live progress.",
-  "windows_notes": "Fixed typing doing nothing in the Deny dialog's custom message box. Mail's keyboard shortcuts no longer react while you are in Moderation or Tickets, so pressing D to deny a song can no longer delete an email left open in Mail, a likely cause of the emails that went missing from your Inbox."
+  "windows_notes": "Takedowns now also set the song's status to Takedown, like changing it by hand in the web admin, so it no longer drifts back to Approved later. Fixed Moderation's song action keys (approve, deny, takedown, ban) reacting on songs you could not see, and a few Mail and Tickets keyboard shortcuts reacting while you were in another tab."
 }
