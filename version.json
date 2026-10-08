@@ -1,11 +1,11 @@
 {
-  "mac_version": "2.76",
+  "mac_version": "2.77",
   "windows_version": "3.67",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
   "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.67.exe",
-  "notes": "Fixed \"Select all\" in the Untagged group in Tickets selecting nothing. Auto-tag now covers everything you've selected across every page, applies much faster, and shows live progress.",
-  "version": "2.76",
-  "mac_notes": "Fixed \"Select all\" in the Untagged group in Tickets selecting nothing. Auto-tag now covers everything you've selected across every page, applies much faster, and shows live progress.",
+  "notes": "Takedowns now also set the song's status to Takedown, so it no longer drifts back to Approved. Fixed Mail shortcuts reacting while you're in Moderation or Tickets (a likely cause of emails going missing), the frozen Deny message box, and song action keys firing on songs you couldn't see.",
+  "version": "2.77",
+  "mac_notes": "Takedowns now also set the song's status to Takedown, so it no longer drifts back to Approved. Fixed Mail shortcuts reacting while you're in Moderation or Tickets (a likely cause of emails going missing), the frozen Deny message box, and song action keys firing on songs you couldn't see.",
   "windows_notes": "Takedowns now also set the song's status to Takedown, like changing it by hand in the web admin, so it no longer drifts back to Approved later. Fixed Moderation's song action keys (approve, deny, takedown, ban) reacting on songs you could not see, and a few Mail and Tickets keyboard shortcuts reacting while you were in another tab."
 }
