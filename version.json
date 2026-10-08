@@ -1,11 +1,11 @@
 {
   "mac_version": "2.75",
-  "windows_version": "3.64",
+  "windows_version": "3.65",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
-  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.64.exe",
+  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.65.exe",
   "notes": "Deleting the email you're reading now asks for confirmation first, and no other shortcut can fire while it's open. Fixed a \"message isn't in this folder\" error after switching account tabs. Moderation now recovers by itself after you sign in to Freecords again.",
   "version": "2.75",
   "mac_notes": "Deleting the email you're reading now asks for confirmation first, and no other shortcut can fire while it's open. Fixed a \"message isn't in this folder\" error after switching account tabs. Moderation now recovers by itself after you sign in to Freecords again.",
-  "windows_notes": "Deleting the email you are reading now asks \"Move this email to Trash?\" first, whether you use the delete key or the button, and no other shortcut works while the question is open. Fixed the Inbox sometimes showing a \"This message isn't in this folder anymore\" error after switching account tabs, and Moderation now recovers by itself after you sign in to Freecords again."
+  "windows_notes": "Fixed \"Select all\" inside the Untagged group in Tickets selecting nothing. Auto-tag now checks everything you have selected across every page (leaving already-tagged tickets alone), and applying it is much faster with live progress instead of a frozen-looking button."
 }
