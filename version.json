@@ -1,11 +1,11 @@
 {
-  "mac_version": "2.77",
+  "mac_version": "2.78",
   "windows_version": "3.68",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
   "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.68.exe",
-  "notes": "Takedowns now also set the song's status to Takedown, so it no longer drifts back to Approved. Fixed Mail shortcuts reacting while you're in Moderation or Tickets (a likely cause of emails going missing), the frozen Deny message box, and song action keys firing on songs you couldn't see.",
-  "version": "2.77",
-  "mac_notes": "Takedowns now also set the song's status to Takedown, so it no longer drifts back to Approved. Fixed Mail shortcuts reacting while you're in Moderation or Tickets (a likely cause of emails going missing), the frozen Deny message box, and song action keys firing on songs you couldn't see.",
+  "notes": "Songs now show a combined status like \"Approved \u00b7 Takedown\" or \"Banned \u00b7 Takedown\". Added a \"Customer replied\" badge on open tickets, fixed customers' attachments missing from tickets, and the profile files list now shows submission dates, newest first.",
+  "version": "2.78",
+  "mac_notes": "Songs now show a combined status like \"Approved \u00b7 Takedown\" or \"Banned \u00b7 Takedown\". Added a \"Customer replied\" badge on open tickets, fixed customers' attachments missing from tickets, and the profile files list now shows submission dates, newest first.",
   "windows_notes": "Songs now show a combined status, \"Approved \u00b7 Takedown\" or \"Banned \u00b7 Takedown\", on the song page, search results, the Artists tab and Other Songs. Open tickets where the customer has replied show a \"Customer replied\" badge again. Customers' attachments, like the screenshots on ticket 68696, now show on tickets, and the profile files list shows submission dates, newest first."
 }
