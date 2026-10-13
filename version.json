@@ -1,11 +1,11 @@
 {
   "mac_version": "2.78",
-  "windows_version": "3.68",
+  "windows_version": "3.69",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
-  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.68.exe",
+  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.69.exe",
   "notes": "Songs now show a combined status like \"Approved \u00b7 Takedown\" or \"Banned \u00b7 Takedown\". Added a \"Customer replied\" badge on open tickets, fixed customers' attachments missing from tickets, and the profile files list now shows submission dates, newest first.",
   "version": "2.78",
   "mac_notes": "Songs now show a combined status like \"Approved \u00b7 Takedown\" or \"Banned \u00b7 Takedown\". Added a \"Customer replied\" badge on open tickets, fixed customers' attachments missing from tickets, and the profile files list now shows submission dates, newest first.",
-  "windows_notes": "Songs now show a combined status, \"Approved \u00b7 Takedown\" or \"Banned \u00b7 Takedown\", on the song page, search results, the Artists tab and Other Songs. Open tickets where the customer has replied show a \"Customer replied\" badge again. Customers' attachments, like the screenshots on ticket 68696, now show on tickets, and the profile files list shows submission dates, newest first."
+  "windows_notes": "Fixed the User panel in Tickets, where the Claude chat box could cover the whole panel and hide Admin Notes. Zip files and other non-PDF files can now be attached to a profile. Very long ticket subjects are shortened in the ticket header, and songs no longer show twice in the Artists tab."
 }
