@@ -1,11 +1,11 @@
 {
   "mac_version": "2.80",
-  "windows_version": "3.70",
+  "windows_version": "3.71",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
-  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.70.exe",
+  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.71.exe",
   "notes": "Approve Silent now uses Freecords' full silent approval, so songs get their ISRC and UPC and are delivered. Songs show whether a takedown is incomplete, in progress or confirmed. Overlord now sends Freecords one request at a time, loads only the newest 1,000 tickets, reads only new tickets at startup, and runs bulk ticket actions one at a time.",
   "version": "2.80",
   "mac_notes": "Approve Silent now uses Freecords' full silent approval, so songs get their ISRC and UPC and are delivered. Songs show whether a takedown is incomplete, in progress or confirmed. Overlord now sends Freecords one request at a time, loads only the newest 1,000 tickets, reads only new tickets at startup, and runs bulk ticket actions one at a time.",
-  "windows_notes": "Overlord now sends Freecords one request at a time, so it can no longer overload it. Ticket lists load at most the newest 1,000 tickets (and say so) and refresh at most every 5 minutes, bulk actions in Tickets run one ticket at a time, and startup only reads new tickets. Approve Silent now does a full approval, so songs get their ISRC and UPC and are delivered. Songs now show whether a takedown is incomplete, in progress or confirmed."
+  "windows_notes": "Before a reply is sent, Overlord checks whether the customer or another agent has written on the ticket since you opened it, and asks before sending if they have. An orange bar now warns when another agent has the same ticket open, and the \"also viewing\" indicator is fixed so other agents show up as soon as they open a ticket."
 }
