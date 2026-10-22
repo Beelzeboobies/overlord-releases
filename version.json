@@ -1,11 +1,11 @@
 {
-  "mac_version": "2.82",
+  "mac_version": "2.83",
   "windows_version": "3.73",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
   "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.73.exe",
-  "notes": "Fixed ticket actions failing with \"requests are queued behind other work\": things you click now go ahead of background loading. Fixed the Tickets list timing out when it opened, and the Customer replied badge is now worked out from the ticket you open.",
-  "version": "2.82",
-  "mac_notes": "Fixed ticket actions failing with \"requests are queued behind other work\": things you click now go ahead of background loading. Fixed the Tickets list timing out when it opened, and the Customer replied badge is now worked out from the ticket you open.",
+  "notes": "Added a Take Down button next to each store in Moderation's DSP Delivery Status panel. It takes the song down from that one store only, asks you to confirm first, and leaves the song's status and every other store untouched.",
+  "version": "2.83",
+  "mac_notes": "Added a Take Down button next to each store in Moderation's DSP Delivery Status panel. It takes the song down from that one store only, asks you to confirm first, and leaves the song's status and every other store untouched.",
   "windows_notes": "Added a Take Down button next to each store in the DSP Delivery Status panel in Moderation. It takes the song down from that one store only, asks you to confirm first, and leaves the song's status and every other store untouched."
 }
