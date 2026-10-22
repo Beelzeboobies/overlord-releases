@@ -1,11 +1,11 @@
 {
   "mac_version": "2.81",
-  "windows_version": "3.71",
+  "windows_version": "3.72",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
-  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.71.exe",
+  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.72.exe",
   "notes": "Before a ticket reply is sent, Overlord now checks whether anyone has written since you opened it and lets you choose Don't send or Send anyway. An orange bar warns when another agent has the same ticket open, and the \"also viewing\" indicator now shows other agents straight away.",
   "version": "2.81",
   "mac_notes": "Before a ticket reply is sent, Overlord now checks whether anyone has written since you opened it and lets you choose Don't send or Send anyway. An orange bar warns when another agent has the same ticket open, and the \"also viewing\" indicator now shows other agents straight away.",
-  "windows_notes": "Before a reply is sent, Overlord checks whether the customer or another agent has written on the ticket since you opened it, and asks before sending if they have. An orange bar now warns when another agent has the same ticket open, and the \"also viewing\" indicator is fixed so other agents show up as soon as they open a ticket."
+  "windows_notes": "Fixed ticket actions and the Tickets list failing with \"Freecords requests are queued behind other work\". Things you click now go ahead of background loading, and the Customer replied badge no longer reads many tickets at once."
 }
