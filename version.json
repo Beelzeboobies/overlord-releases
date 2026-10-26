@@ -7,5 +7,5 @@
   "notes": "Fixed the blue Customer replied dot missing from the Tickets list until you opened the ticket. The list now checks recently changed open tickets a few at a time in the background.",
   "version": "2.84",
   "mac_notes": "Fixed the blue Customer replied dot missing from the Tickets list until you opened the ticket. The list now checks recently changed open tickets a few at a time in the background.",
-  "windows_notes": "Fixed the Takedown in progress badge in song lists getting stuck on its first count (for example 0/22). It now keeps updating until every store has finished."
+  "windows_notes": "Fixed the Takedown in progress badge in song lists getting stuck on its first count (for example 0/22). Fixed customers' screenshots and files missing from tickets: Overlord now looks in the live support mailbox each time and finds pictures pasted into the email itself."
 }
