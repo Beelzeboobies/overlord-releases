@@ -1,11 +1,11 @@
 {
   "mac_version": "2.84",
-  "windows_version": "3.74",
+  "windows_version": "3.75",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
-  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.74.exe",
+  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.75.exe",
   "notes": "Fixed the blue Customer replied dot missing from the Tickets list until you opened the ticket. The list now checks recently changed open tickets a few at a time in the background.",
   "version": "2.84",
   "mac_notes": "Fixed the blue Customer replied dot missing from the Tickets list until you opened the ticket. The list now checks recently changed open tickets a few at a time in the background.",
-  "windows_notes": "Fixed the blue Customer replied dot missing from the Tickets list until you opened the ticket. The list now checks the open tickets that have changed, a few at a time in the background."
+  "windows_notes": "Fixed the Takedown in progress badge in song lists getting stuck on its first count (for example 0/22). It now keeps updating until every store has finished."
 }
