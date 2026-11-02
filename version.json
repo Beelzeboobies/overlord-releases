@@ -1,11 +1,11 @@
 {
   "mac_version": "2.87",
-  "windows_version": "3.77",
+  "windows_version": "3.78",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
-  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.77.exe",
+  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.78.exe",
   "notes": "Fixed ticket attachments saying NOT FOUND when the file name had accents, non-English letters or an @. Zip files attached to a ticket now show the files inside, each of which can be previewed, downloaded or attached to a profile.",
   "version": "2.87",
   "mac_notes": "Fixed ticket attachments saying NOT FOUND when the file name had accents, non-English letters or an @. Zip files attached to a ticket now show the files inside, each of which can be previewed, downloaded or attached to a profile.",
-  "windows_notes": "Fixed attachments that would not preview, download or attach to a profile when the file name had accents, non-English letters or an @. Zip files attached to a ticket now show the files inside them, each of which can be previewed, downloaded or attached to a profile."
+  "windows_notes": "Fixed the Deny Song dialog sending the denial the moment you pressed Enter in the custom message box. Enter, Shift+Enter and Ctrl+Enter now start a new line, so you can write paragraphs. A denial is sent only when you click Deny."
 }
