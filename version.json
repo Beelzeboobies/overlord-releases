@@ -1,11 +1,11 @@
 {
-  "mac_version": "2.90",
+  "mac_version": "2.91",
   "windows_version": "3.81",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
   "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.81.exe",
-  "notes": "Fixed admin notes being saved the moment you pressed Enter. The note box is now multi-line, and a note is saved only when you click Save.",
-  "version": "2.90",
-  "mac_notes": "Fixed admin notes being saved the moment you pressed Enter. The note box is now multi-line, and a note is saved only when you click Save.",
+  "notes": "Added an AI Detection (SubmitHub) box to Moderation that shows the stored AI-music score as soon as you open a song. Fixed attachment links breaking on some file names, and the same attachment being listed twice.",
+  "version": "2.91",
+  "mac_notes": "Added an AI Detection (SubmitHub) box to Moderation that shows the stored AI-music score as soon as you open a song. Fixed attachment links breaking on some file names, and the same attachment being listed twice.",
   "windows_notes": "Added an AI Detection (SubmitHub) box to Moderation that shows the stored AI-music score as soon as you open a song. Fixed attachments missing from older tickets, attachment links breaking on some file names, and the same attachment being listed twice."
 }
