@@ -1,11 +1,11 @@
 {
   "mac_version": "2.89",
-  "windows_version": "3.79",
+  "windows_version": "3.80",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
-  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.79.exe",
+  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.80.exe",
   "notes": "You can now delete your own admin notes, after a confirmation. Notes typed in the web admin are no longer credited to whoever added the latest note in Overlord. Clicking a document now opens a preview, and downloaded documents keep their real file name.",
   "version": "2.89",
   "mac_notes": "You can now delete your own admin notes, after a confirmation. Notes typed in the web admin are no longer credited to whoever added the latest note in Overlord. Clicking a document now opens a preview, and downloaded documents keep their real file name.",
-  "windows_notes": "You can now delete your own admin notes, after a confirmation. Notes typed in the web admin are no longer re-credited to whoever adds the next note. Documents on File now open a preview when clicked, and downloads keep their real file name instead of \"download\"."
+  "windows_notes": "Fixed admin notes being saved the moment you pressed Enter. The note box is now multi-line, so Enter starts a new line and a note is saved only when you click Save."
 }
