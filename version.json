@@ -1,11 +1,11 @@
 {
-  "mac_version": "2.88",
+  "mac_version": "2.89",
   "windows_version": "3.79",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
   "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.79.exe",
-  "notes": "Fixed the Deny Song dialog sending the denial as soon as you pressed Enter in the custom message box. Enter now starts a new line, and the denial is sent only when you click Deny.",
-  "version": "2.88",
-  "mac_notes": "Fixed the Deny Song dialog sending the denial as soon as you pressed Enter in the custom message box. Enter now starts a new line, and the denial is sent only when you click Deny.",
+  "notes": "You can now delete your own admin notes, after a confirmation. Notes typed in the web admin are no longer credited to whoever added the latest note in Overlord. Clicking a document now opens a preview, and downloaded documents keep their real file name.",
+  "version": "2.89",
+  "mac_notes": "You can now delete your own admin notes, after a confirmation. Notes typed in the web admin are no longer credited to whoever added the latest note in Overlord. Clicking a document now opens a preview, and downloaded documents keep their real file name.",
   "windows_notes": "You can now delete your own admin notes, after a confirmation. Notes typed in the web admin are no longer re-credited to whoever adds the next note. Documents on File now open a preview when clicked, and downloads keep their real file name instead of \"download\"."
 }
