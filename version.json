@@ -1,11 +1,11 @@
 {
-  "mac_version": "2.92",
+  "mac_version": "2.93",
   "windows_version": "3.83",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
   "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.83.exe",
-  "notes": "Files a customer emailed to support are now saved to the ticket the first time it is opened, so everyone sees them on every computer. Added a notice on a ticket when the customer says they attached a file or screenshot but nothing came through.",
-  "version": "2.92",
-  "mac_notes": "Files a customer emailed to support are now saved to the ticket the first time it is opened, so everyone sees them on every computer. Added a notice on a ticket when the customer says they attached a file or screenshot but nothing came through.",
+  "notes": "Fixed emails possibly showing \"not logged in\" when opened, and ticket attachments from the support mailbox failing to load. The mail server changed its security certificate on 3 November, and the app now also trusts the certificate list that ships with it.",
+  "version": "2.93",
+  "mac_notes": "Fixed emails possibly showing \"not logged in\" when opened, and ticket attachments from the support mailbox failing to load. The mail server changed its security certificate on 3 November, and the app now also trusts the certificate list that ships with it.",
   "windows_notes": "Fixed emails showing 'not logged in' when opened and ticket attachments failing to load from the support mailbox (the mail server changed its security certificate on 3 November). Sending replies from the app is covered by the same fix."
 }
