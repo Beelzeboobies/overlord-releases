@@ -1,11 +1,11 @@
 {
-  "mac_version": "2.95",
+  "mac_version": "2.96",
   "windows_version": "3.86",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
   "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.86.exe",
-  "notes": "Fixed songs in Moderation playing over each other: starting a song now stops the one already playing. Added a \"Reconnect to Freecords\" button to the \"session has expired\" message. Fixed Moderation's Settings page showing \"Connected\" after the Freecords login had expired.",
-  "version": "2.95",
-  "mac_notes": "Fixed songs in Moderation playing over each other: starting a song now stops the one already playing. Added a \"Reconnect to Freecords\" button to the \"session has expired\" message. Fixed Moderation's Settings page showing \"Connected\" after the Freecords login had expired.",
+  "notes": "Fixed songs playing over each other when Overlord is open in more than one tab or window. Fixed a song carrying on playing after its player had gone away.",
+  "version": "2.96",
+  "mac_notes": "Fixed songs playing over each other when Overlord is open in more than one tab or window. Fixed a song carrying on playing after its player had gone away.",
   "windows_notes": "Songs no longer play over each other when Overlord is open in more than one tab or window, and a song stops when its player closes."
 }
