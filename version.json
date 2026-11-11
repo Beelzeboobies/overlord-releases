@@ -1,11 +1,11 @@
 {
   "mac_version": "2.94",
-  "windows_version": "3.84",
+  "windows_version": "3.85",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
-  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.84.exe",
+  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.85.exe",
   "notes": "Fixed a customer's other tickets missing from \"Open cases\" in the User panel: the local ticket list had stopped adding new tickets on 4 November, and it now catches up every time the app starts. Fixed a customer's tickets not matching when their email used different capital letters or a trailing space. Fixed repeating Google Calendar events showing only on their first date.",
   "version": "2.94",
   "mac_notes": "Fixed a customer's other tickets missing from \"Open cases\" in the User panel: the local ticket list had stopped adding new tickets on 4 November, and it now catches up every time the app starts. Fixed a customer's tickets not matching when their email used different capital letters or a trailing space. Fixed repeating Google Calendar events showing only on their first date.",
-  "windows_notes": "Fixed a customer's other tickets missing from Open cases (the app's ticket list had stopped adding new tickets on 4 November; it now catches up every launch). Fixed repeating Google Calendar events (a weekly meeting, for example) showing only on their first date."
+  "windows_notes": "Songs in Moderation no longer play over each other (starting one stops the other). The \"Freecords session expired\" message now has a Reconnect to Freecords button that opens the login page, and Moderation's Settings no longer shows Connected after the login has expired."
 }
