@@ -1,11 +1,11 @@
 {
-  "mac_version": "2.96",
+  "mac_version": "2.97",
   "windows_version": "3.87",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
   "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.87.exe",
-  "notes": "Fixed songs playing over each other when Overlord is open in more than one tab or window. Fixed a song carrying on playing after its player had gone away.",
-  "version": "2.96",
-  "mac_notes": "Fixed songs playing over each other when Overlord is open in more than one tab or window. Fixed a song carrying on playing after its player had gone away.",
+  "notes": "Added a Patron badge next to the username in Moderation > Artists, so you can see at a glance that an account is a patron.",
+  "version": "2.97",
+  "mac_notes": "Added a Patron badge next to the username in Moderation > Artists, so you can see at a glance that an account is a patron.",
   "windows_notes": "Moderation > Artists now shows a Patron badge next to the username for patron accounts."
 }
