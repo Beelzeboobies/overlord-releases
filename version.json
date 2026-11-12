@@ -1,11 +1,11 @@
 {
-  "mac_version": "2.97",
+  "mac_version": "2.98",
   "windows_version": "3.88",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
   "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.88.exe",
-  "notes": "Added a Patron badge next to the username in Moderation > Artists, so you can see at a glance that an account is a patron.",
-  "version": "2.97",
-  "mac_notes": "Added a Patron badge next to the username in Moderation > Artists, so you can see at a glance that an account is a patron.",
+  "notes": "Fixed pictures pasted into a reply not showing for the customer: they now go as proper inline images. Fixed a reply with a pasted picture appearing cut off on the ticket. Fixed attachments with a long file name failing to download when the email split the name over two lines.",
+  "version": "2.98",
+  "mac_notes": "Fixed pictures pasted into a reply not showing for the customer: they now go as proper inline images. Fixed a reply with a pasted picture appearing cut off on the ticket. Fixed attachments with a long file name failing to download when the email split the name over two lines.",
   "windows_notes": "Pictures pasted into a reply now show for the customer (sent as proper inline images), a reply with a pasted picture is no longer cut off on the ticket, and attachments with long file names download again."
 }
