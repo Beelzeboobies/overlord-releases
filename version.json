@@ -1,11 +1,11 @@
 {
   "mac_version": "2.97",
-  "windows_version": "3.87",
+  "windows_version": "3.88",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
-  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.87.exe",
+  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.88.exe",
   "notes": "Added a Patron badge next to the username in Moderation > Artists, so you can see at a glance that an account is a patron.",
   "version": "2.97",
   "mac_notes": "Added a Patron badge next to the username in Moderation > Artists, so you can see at a glance that an account is a patron.",
-  "windows_notes": "Moderation > Artists now shows a Patron badge next to the username for patron accounts."
+  "windows_notes": "Pictures pasted into a reply now show for the customer (sent as proper inline images), a reply with a pasted picture is no longer cut off on the ticket, and attachments with long file names download again."
 }
