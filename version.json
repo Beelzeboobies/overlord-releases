@@ -1,11 +1,11 @@
 {
   "mac_version": "2.98",
-  "windows_version": "3.89",
+  "windows_version": "3.90",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
-  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.89.exe",
+  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.90.exe",
   "notes": "Fixed pictures pasted into a reply not showing for the customer: they now go as proper inline images. Fixed a reply with a pasted picture appearing cut off on the ticket. Fixed attachments with a long file name failing to download when the email split the name over two lines.",
   "version": "2.98",
   "mac_notes": "Fixed pictures pasted into a reply not showing for the customer: they now go as proper inline images. Fixed a reply with a pasted picture appearing cut off on the ticket. Fixed attachments with a long file name failing to download when the email split the name over two lines.",
-  "windows_notes": "Closing a ticket now assigns it to whoever closed it, Closed with a date and assignee lists what that person closed, and the Tickets filters (Priority, Assignee, Tag, Date, Sort) can be given hotkeys."
+  "windows_notes": "Mail search results no longer turn back into the whole inbox a few seconds after searching. The Tickets list opens straight away from a saved copy and refreshes in the background, and closing, assigning or replying to a ticket no longer reloads the whole list."
 }
