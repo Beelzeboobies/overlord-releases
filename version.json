@@ -1,11 +1,11 @@
 {
   "mac_version": "2.99",
-  "windows_version": "3.90",
+  "windows_version": "3.91",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
-  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.90.exe",
+  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.91.exe",
   "notes": "Fixed Mail search results turning back into the whole inbox a few seconds after searching. The Tickets list now opens straight from a saved copy and updates in the background, and closing, assigning or replying no longer reloads the whole list. Closing a ticket now assigns it to whoever closed it. Fixed Closed with a date and an assignee. Added hotkeys for the Tickets filters.",
   "version": "2.99",
   "mac_notes": "Fixed Mail search results turning back into the whole inbox a few seconds after searching. The Tickets list now opens straight from a saved copy and updates in the background, and closing, assigning or replying no longer reloads the whole list. Closing a ticket now assigns it to whoever closed it. Fixed Closed with a date and an assignee. Added hotkeys for the Tickets filters.",
-  "windows_notes": "Mail search results no longer turn back into the whole inbox a few seconds after searching. The Tickets list opens straight away from a saved copy and refreshes in the background, and closing, assigning or replying to a ticket no longer reloads the whole list."
+  "windows_notes": "The unread numbers on Inbox and the other folders now stay up to date, also when you read mail on another computer, and marking several messages as unread now raises the unread number instead of lowering it."
 }
