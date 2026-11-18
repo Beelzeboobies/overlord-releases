@@ -7,5 +7,5 @@
   "notes": "Fixed Mail search results turning back into the whole inbox a few seconds after searching. The Tickets list now opens straight from a saved copy and updates in the background, and closing, assigning or replying no longer reloads the whole list. Closing a ticket now assigns it to whoever closed it. Fixed Closed with a date and an assignee. Added hotkeys for the Tickets filters.",
   "version": "2.99",
   "mac_notes": "Fixed Mail search results turning back into the whole inbox a few seconds after searching. The Tickets list now opens straight from a saved copy and updates in the background, and closing, assigning or replying no longer reloads the whole list. Closing a ticket now assigns it to whoever closed it. Fixed Closed with a date and an assignee. Added hotkeys for the Tickets filters.",
-  "windows_notes": "The unread numbers on Inbox and the other folders now stay up to date, also when you read mail on another computer, and marking several messages as unread now raises the unread number instead of lowering it."
+  "windows_notes": "The unread numbers on Inbox and the other folders now stay up to date, also when you read mail on another computer, marking several messages as unread now raises the unread number instead of lowering it, and closing several tickets at once with Send & Close now assigns them to you."
 }
