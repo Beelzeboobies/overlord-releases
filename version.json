@@ -1,11 +1,11 @@
 {
-  "mac_version": "2.100",
+  "mac_version": "2.101",
   "windows_version": "3.92",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
   "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.92.exe",
-  "notes": "Fixed the unread number on Inbox and other folders staying wrong after reading mail on another computer: it now updates with the automatic refresh and when you come back to the window. Fixed marking several messages as unread making the number go down. Closing several tickets at once with Send & Close now assigns each of them to you.",
-  "version": "2.100",
-  "mac_notes": "Fixed the unread number on Inbox and other folders staying wrong after reading mail on another computer: it now updates with the automatic refresh and when you come back to the window. Fixed marking several messages as unread making the number go down. Closing several tickets at once with Send & Close now assigns each of them to you.",
+  "notes": "Fixed \"Show previous thread\" in a reply or forward showing the quoted email as one solid block of text. Paragraphs, quoted replies, separator lines and lists are now spaced and marked as in the original email.",
+  "version": "2.101",
+  "mac_notes": "Fixed \"Show previous thread\" in a reply or forward showing the quoted email as one solid block of text. Paragraphs, quoted replies, separator lines and lists are now spaced and marked as in the original email.",
   "windows_notes": "Show previous thread in a reply or forward no longer shows the quoted email as one solid block of text."
 }
