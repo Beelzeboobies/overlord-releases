@@ -1,11 +1,11 @@
 {
-  "mac_version": "2.102",
+  "mac_version": "2.103",
   "windows_version": "3.94",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
   "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.94.exe",
-  "notes": "Fixed pressing the delete key (D) and then Enter not moving the open email to Trash: the Move to Trash button is now ready, so Enter confirms it. Delete forever in Trash still waits on Cancel.",
-  "version": "2.102",
-  "mac_notes": "Fixed pressing the delete key (D) and then Enter not moving the open email to Trash: the Move to Trash button is now ready, so Enter confirms it. Delete forever in Trash still waits on Cancel.",
+  "notes": "A new install now starts blank: the sign-in screen no longer has someone else's email address typed into it, and the signature box no longer shows another person's name and address as an example.",
+  "version": "2.103",
+  "mac_notes": "A new install now starts blank: the sign-in screen no longer has someone else's email address typed into it, and the signature box no longer shows another person's name and address as an example.",
   "windows_notes": "A new install now starts blank: no email address typed into the sign-in screen and no name in the signature box."
 }
