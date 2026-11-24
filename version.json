@@ -1,11 +1,11 @@
 {
-  "mac_version": "2.103",
+  "mac_version": "2.104",
   "windows_version": "3.95",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
   "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.95.exe",
-  "notes": "A new install now starts blank: the sign-in screen no longer has someone else's email address typed into it, and the signature box no longer shows another person's name and address as an example.",
-  "version": "2.103",
-  "mac_notes": "A new install now starts blank: the sign-in screen no longer has someone else's email address typed into it, and the signature box no longer shows another person's name and address as an example.",
+  "notes": "Added an Edit messages switch to the Bulk reply preview: turn it on and click into any ticket's message to change it for that ticket only. Changed messages are marked \"edited\" with a Reset link.",
+  "version": "2.104",
+  "mac_notes": "Added an Edit messages switch to the Bulk reply preview: turn it on and click into any ticket's message to change it for that ticket only. Changed messages are marked \"edited\" with a Reset link.",
   "windows_notes": "The Bulk reply preview now has an Edit messages switch: change one ticket's message before sending, with a Reset link per ticket."
 }
