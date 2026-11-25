@@ -1,11 +1,11 @@
 {
-  "mac_version": "2.104",
+  "mac_version": "2.105",
   "windows_version": "3.96",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
   "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.96.exe",
-  "notes": "Added an Edit messages switch to the Bulk reply preview: turn it on and click into any ticket's message to change it for that ticket only. Changed messages are marked \"edited\" with a Reset link.",
-  "version": "2.104",
-  "mac_notes": "Added an Edit messages switch to the Bulk reply preview: turn it on and click into any ticket's message to change it for that ticket only. Changed messages are marked \"edited\" with a Reset link.",
+  "notes": "Moderation > Artists now shows every file attached to the account under Documents on File, including zips and audio, and the box opens by itself. When you attach a Song document to a profile you can pick its track. Fixed uploading a non-PDF file from your computer to a profile failing with \"Only PDF and image files are allowed\".",
+  "version": "2.105",
+  "mac_notes": "Moderation > Artists now shows every file attached to the account under Documents on File, including zips and audio, and the box opens by itself. When you attach a Song document to a profile you can pick its track. Fixed uploading a non-PDF file from your computer to a profile failing with \"Only PDF and image files are allowed\".",
   "windows_notes": "Moderation > Artists now lists every file attached to a profile (zips and audio included) and opens Documents on File by itself; documents can be linked to their track; uploading a zip from your computer no longer fails."
 }
