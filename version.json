@@ -1,11 +1,11 @@
 {
   "mac_version": "2.104",
-  "windows_version": "3.95",
+  "windows_version": "3.96",
   "download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord.zip",
   "windows_download_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-win.zip",
-  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.95.exe",
+  "windows_installer_url": "https://github.com/Beelzeboobies/overlord-releases/raw/main/Overlord-Setup-3.96.exe",
   "notes": "Added an Edit messages switch to the Bulk reply preview: turn it on and click into any ticket's message to change it for that ticket only. Changed messages are marked \"edited\" with a Reset link.",
   "version": "2.104",
   "mac_notes": "Added an Edit messages switch to the Bulk reply preview: turn it on and click into any ticket's message to change it for that ticket only. Changed messages are marked \"edited\" with a Reset link.",
-  "windows_notes": "The Bulk reply preview now has an Edit messages switch: change one ticket's message before sending, with a Reset link per ticket."
+  "windows_notes": "Moderation > Artists now lists every file attached to a profile (zips and audio included) and opens Documents on File by itself; documents can be linked to their track; uploading a zip from your computer no longer fails."
 }
